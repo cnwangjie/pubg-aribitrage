@@ -1,0 +1,23 @@
+{
+  "name": "blockchain-aribitrage-project",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cnwangjie",
+  "license": "unlicense",
+  "dependencies": {
+    "async": "^2.6.0",
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.0",
+    "chalk": "^2.3.0",
+    "cheerio": "^1.0.0-rc.2",
+    "koa": "^2.3.0",
+    "mongoose": "^4.13.7",
+    "node-schedule": "^1.2.5",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2"
+  }
+}
